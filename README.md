@@ -56,9 +56,11 @@ Follow these steps to set up the project locally:
     Follow the instructions to install [OpenVINO](https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino.html).
 
 5. **Download the fine-tuned model from HuggingFace:**
-   [Click here](https://huggingface.co/JefiRyan/gemma-2b-mental-health-4000-steps-openvino) to visit huggingface repository to download our openvino model.
-   [Click here](https://huggingface.co/JefiRyan/gemma-2b-it-mental-health-4000-steps) to visit huggingface repository to download our finetuned gemma model.
-   ![image](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/1a1d0efc-7f8d-4c97-a447-e0c881c9b9ed)
+   - [Click here](https://huggingface.co/JefiRyan/gemma-2b-mental-health-4000-steps-openvino) to visit huggingface repository to download our openvino model.
+   - ![image](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/1a1d0efc-7f8d-4c97-a447-e0c881c9b9ed)
+   - [Click here](https://huggingface.co/JefiRyan/gemma-2b-it-mental-health-4000-steps) to visit huggingface repository to download our finetuned gemma model.
+   - ![image](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/6a245ca1-9459-4775-abee-bc98cb76256a)
+
 
 
 ## Usage

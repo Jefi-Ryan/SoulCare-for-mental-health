@@ -48,15 +48,10 @@ Follow these steps to set up the project locally:
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Install OpenVINO:**
+3. **Install OpenVINO:**
     Follow the instructions to install [OpenVINO](https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino.html).
 
-5. **Download the fine-tuned model from HuggingFace:**
+4. **Download the fine-tuned model from HuggingFace:**
    - [Click here](https://huggingface.co/JefiRyan/gemma-2b-mental-health-4000-steps-openvino) to visit huggingface repository to download our openvino model.
    - ![image](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/1a1d0efc-7f8d-4c97-a447-e0c881c9b9ed)
    - [Click here](https://huggingface.co/JefiRyan/gemma-2b-it-mental-health-4000-steps) to visit huggingface repository to download our finetuned gemma model.

@@ -118,4 +118,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-We hope you find this project useful and welcome any feedback or contributions!
+We hope you find this project useful!

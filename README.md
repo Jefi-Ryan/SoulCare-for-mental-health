@@ -37,8 +37,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/mental-health-chatbot.git
-    cd mental-health-chatbot
+    git clone https://github.com/Jefi-Ryan/SoulCare-for-mental-health
+    cd SoulCare-for-mental-health
     ```
 
 2. **Set up a virtual environment:**
@@ -54,6 +54,12 @@ Follow these steps to set up the project locally:
 
 4. **Install OpenVINO:**
     Follow the instructions to install [OpenVINO](https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino.html).
+
+5. **Download the fine-tuned model from HuggingFace:**
+   [Click here](https://huggingface.co/JefiRyan/gemma-2b-mental-health-4000-steps-openvino) to visit huggingface repository to download our openvino model.
+   [Click here](https://huggingface.co/JefiRyan/gemma-2b-it-mental-health-4000-steps) to visit huggingface repository to download our finetuned gemma model.
+   ![image](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/1a1d0efc-7f8d-4c97-a447-e0c881c9b9ed)
+
 
 ## Usage
 

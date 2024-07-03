@@ -106,7 +106,7 @@ Follow these steps to set up the project locally:
 
 The Streamlit web app provides an intuitive interface for users to interact with the chatbot. It is designed to be user-friendly and accessible.
 
-![Web App Screenshot](path/to/screenshot.png)
+## Demo
 
 
 ## License

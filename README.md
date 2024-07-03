@@ -13,6 +13,7 @@ Welcome to SoulCare repository! This project utilizes a fine-tuned version of Go
 - [Model Details](#model-details)
 - [Metrics](#metrics)
 - [Web App](#web-app)
+- [Demo](#demo)
 - [License](#license)
 
 ## Overview
@@ -107,6 +108,7 @@ Follow these steps to set up the project locally:
 The Streamlit web app provides an intuitive interface for users to interact with the chatbot. It is designed to be user-friendly and accessible.
 
 ## Demo
+
 ![demo (1)](https://github.com/Jefi-Ryan/SoulCare-for-mental-health/assets/114754832/ff7441aa-4288-4155-8aef-38414a884332)
 
 

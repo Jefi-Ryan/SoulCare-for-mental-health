@@ -107,7 +107,7 @@ Follow these steps to set up the project locally:
 The Streamlit web app provides an intuitive interface for users to interact with the chatbot. It is designed to be user-friendly and accessible.
 
 ## Demo
-![Watch the video](https://raw.githubusercontent.com/Jefi-Ryan/SoulCare-for-mental-health/main/demo.mp4)
+![Watch the video](https://raw.githubusercontent.com/Jefi-Ryan/SoulCare-for-mental-health/main/assets/demo.mp4)
 
 ## License
 

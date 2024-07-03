@@ -1,4 +1,4 @@
-# SoulCare - mental health support chatbot
+# SoulCare - a mental health support chatbot
 
 This project is part of Intel Unnati 2024.
 
